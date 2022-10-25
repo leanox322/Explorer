@@ -1,0 +1,196 @@
+@media screen and (max-width: 1400px) {
+  .container {
+    width: 50%;
+  }
+  .container2 {
+    width: 70%;
+  }
+  .main-content-block-wrapper {
+    width: 280px;
+  }
+  .luke-bgimg1 {
+    background-position: center;
+  }
+  .jessica-bgimg {
+    background-position: center;
+  }
+  .luke-bgimg2 {
+    background-position: center;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .container {
+    width: 60%;
+  }
+  .container2 {
+    width: 80%;
+  }
+  .main-content-block-wrapper {
+    width: 260px;
+  }
+  .luke-bgimg1 {
+    background-position: center;
+  }
+  .jessica-bgimg {
+    background-position: center;
+  }
+  .luke-bgimg2 {
+    background-position: center;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    width: 70%;
+  }
+  .container2 {
+    width: 90%;
+  }
+  .main-content-block-wrapper {
+    width: 280px;
+  }
+  .luke-bgimg1 {
+    background-position: center;
+  }
+  .jessica-bgimg {
+    background-position: center;
+  }
+  .luke-bgimg2 {
+    background-position: center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+  .photography {
+    left: 84%;
+  }
+  .main-content-block-wrapper {
+    width: 210px;
+  }
+  .luke-bgimg1 {
+    background-position: center;
+  }
+  .jessica-bgimg {
+    background-position: center;
+  }
+  .luke-bgimg2 {
+    background-position: center;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .container {
+    width: 100%;
+  }
+  .bgimg-1 {
+    height: 240px;
+  }
+  .travel {
+    left: 88%;
+  }
+  .bgimg-2 {
+    height: 240px;
+  }
+  .photography {
+    left: 81%;
+  }
+  .bgimg-3 {
+    height: 240px;
+  }
+  .main-content-block-wrapper {
+    width: 140px;
+  }
+  .span-wrapper-main {
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 0;
+  }
+  .luke-bgimg1 {
+    justify-content: center;
+  }
+  .jessica-bgimg {
+    justify-content: center;
+  }
+  .luke-bgimg2 {
+    justify-content: center;
+  }
+  .main-content-wrapper h3 {
+    font-size: 15px;
+    line-height: 25px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .navbar-wrapper ul {
+    gap: 10px;
+  }
+  .navbar-wrapper a {
+    font-size: 10px;
+  }
+  .home::after {
+    display: none;
+  }
+  .navbar-wrapper {
+    padding-bottom: 60px;
+  }
+  .bgimg-1 {
+    height: 170px;
+  }
+  .luke-text-wrapper h1 {
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .travel {
+    left: 84%;
+  }
+  .bgimg-2 {
+    height: 170px;
+  }
+  .jessica-text-wrapper h2 {
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .photography {
+    left: 74%;
+  }
+  .luke-text-wrapper h2 {
+    width: 100%;
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .featured-stories-text h2 {
+    font-size: 30px;
+    padding-bottom: 0;
+  }
+  .featured-stories-text h3 {
+    font-size: 20px;
+  }
+  .bgimg-3 {
+    height: 170px;
+  }
+  .main-content-block-wrapper {
+    width: 115px;
+  }
+  .main-content-wrapper h3 {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .span-wrapper-main span {
+    font-size: 13px;
+  }
+  .bgcolor2 h3 {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  main {
+    padding-bottom: 65px;
+  }
+}
